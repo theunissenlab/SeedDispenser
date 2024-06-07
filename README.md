@@ -20,13 +20,6 @@ This is the disc that rotates within the main dispenser body. It is laser cut ou
 <img width="300" alt="Screenshot 2024-06-07 at 10 41 32 AM" src="https://github.com/AnnLiBenn/SeedDispenser/assets/43388358/8d876f79-76cd-4416-8e3e-112f17123cc2">
 </p>
 
-## Assembly
-
-<p align="center">
-https://github.com/AnnLiBenn/SeedDispenser/assets/43388358/91686d41-9b9b-43a2-802a-b2d67f0b5d75
-</p>
-
-
 
 ## Additional Parts List:
 
@@ -34,3 +27,10 @@ https://github.com/AnnLiBenn/SeedDispenser/assets/43388358/91686d41-9b9b-43a2-80
 - [IR Break Beam Sensors with Wire Header Ends - 3mm LEDs](https://www.adafruit.com/product/2167#technical-details)
 - NEMA 17 Stepper Motor
 - Flanged Shaft Collar
+
+
+## Assembly
+
+<p align="center">
+https://github.com/AnnLiBenn/SeedDispenser/assets/43388358/91686d41-9b9b-43a2-802a-b2d67f0b5d75
+</p>
